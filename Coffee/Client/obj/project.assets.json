@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\kod\\hw\\PracticeABC\\Client\\Client.csproj",
+      "projectUniqueName": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\kod\\hw\\Coffee\\Client\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\kod\\hw\\PracticeABC\\Client\\Client.csproj",
+      "projectPath": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\kod\\hw\\Coffee\\Client\\Client.csproj",
       "packagesPath": "C:\\Users\\Daria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\kod\\hw\\PracticeABC\\Client\\obj\\",
+      "outputPath": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\kod\\hw\\Coffee\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daria\\AppData\\Roaming\\NuGet\\NuGet.Config"

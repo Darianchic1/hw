@@ -101,7 +101,7 @@ namespace Client
         private static void DeletePurchase()
         {
 
-            var url = $"{BaseUrl}:{Port}{AddPurchaseMethod}";
+            var url = $"{BaseUrl}:{Port}{DeletePurchasesMethod}";
 
             Console.WriteLine("Введите ID заказа:");
             var id = int.Parse(Console.ReadLine());
@@ -129,6 +129,8 @@ namespace Client
                 Console.WriteLine($"Error: {response.StatusCode}");
             }
         }
+
+        //мне сказали, что client не нужно делать, поэтому delete здесь недоделан((
 
 
         private static void Main()
